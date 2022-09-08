@@ -4,7 +4,7 @@ public class ReverseNum {
     public static void main(String[] args) {
 //        here we will reverse the given number for eg. 345897 --> 798543
 
-        int num = 315289;
+        int num = 576289;
 
         int ans = 0;
         while (num >0){
